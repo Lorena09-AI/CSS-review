@@ -1,0 +1,38 @@
+.loginC{
+    background-color: blanchedalmond;
+    width: 50%;
+}
+h2{
+ color: rgb(71, 118, 204);
+ font-family: cursive;
+ font-weight: 2000;
+ font-size: larger;
+ text-align: center;
+ 
+}
+p{
+    color: rgb(59, 115, 117);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    text-align: center;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.inputs{
+    text-align: center;
+}
+.inputss{
+    text-align: center;
+}
+
+.links{
+    text-align: center;
+}
+.btn-primary{
+    text-align: center;
+}
